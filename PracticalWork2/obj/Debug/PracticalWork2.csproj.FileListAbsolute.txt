@@ -1,0 +1,8 @@
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\bin\Debug\PracticalWork2.exe.config
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\bin\Debug\PracticalWork2.exe
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\bin\Debug\PracticalWork2.pdb
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\obj\Debug\PracticalWork2.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\obj\Debug\PracticalWork2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\obj\Debug\PracticalWork2.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\obj\Debug\PracticalWork2.exe
+C:\Users\Den\source\repos\PracticalWork2\PracticalWork2\obj\Debug\PracticalWork2.pdb
